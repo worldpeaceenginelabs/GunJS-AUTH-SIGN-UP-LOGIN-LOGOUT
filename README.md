@@ -1,4 +1,11 @@
-# GunJS-AUTH-SIGN-UP-LOGIN-LOGOUT
+### GunJS-AUTH
+#### SIGN-UP, LOGIN, LOGOUT
+<br>
+
+![image](https://user-images.githubusercontent.com/67427045/216623690-b1174b9b-b845-4abf-b9e7-2d0d948cedfa.png)
+<br>
+<br>
+
 ### Ready to go sign-up, login, logout for the decentralized database GunJS.
 ### GUNJS 5 min Quickstart + AI coding partner https://github.com/worldpeaceenginelabs/GUNJS-STARTERKIT-QUICKSTART-ARTIFICIAL-INTELLIGENCE-PAIR-CODING
 <br>
